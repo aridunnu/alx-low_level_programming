@@ -30,6 +30,6 @@ count *= 10;
 
 for (; count >= 1; count /= 10)
 {
-  putchar(((m / count) % 10) + 48);
+putchar(((m / count) % 10) + 48);
 }
 }
