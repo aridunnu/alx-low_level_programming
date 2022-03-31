@@ -1,0 +1,1 @@
+still pointersarrays strings
